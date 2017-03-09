@@ -1,11 +1,11 @@
 # Computer Vision Assignments
 
 ## Description
-This repository comprises of the assignments that I have completed for my Computer vision class.
+This repository comprises of the assignments that I have completed for **Computer Vision** class.
 
 Assignments are implemented in MATLAB.
 
-Assignment descriptions are placed in every assignment's folders.
+Assignment descriptions are placed in every assignment's folder.
 
 Assignment topics are:
 
